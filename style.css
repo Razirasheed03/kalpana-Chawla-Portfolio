@@ -53,7 +53,7 @@ body {
     text-align: center;
     color: white;
     position: relative;
-    background: url('./assets/787E9F12-D0B5-49A1-AA27-5D18B95BE053.webp') center/cover no-repeat;
+    background: url('assets/787E9F12-D0B5-49A1-AA27-5D18B95BE053.webp') center/cover no-repeat;
     overflow: hidden;
 }
 
