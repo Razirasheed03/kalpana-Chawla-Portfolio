@@ -53,7 +53,7 @@ body {
     text-align: center;
     color: white;
     position: relative;
-    background: url('assets/787E9F12-D0B5-49A1-AA27-5D18B95BE053.webp') center/cover no-repeat;
+    background: url('787E9F12-D0B5-49A1-AA27-5D18B95BE053.webp') center/cover no-repeat;
     overflow: hidden;
 }
 
@@ -179,7 +179,7 @@ section::before {
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
     height: 400px; /* Set an appropriate height */
-    background: url('assets/MainImage.jpg') center/cover no-repeat;
+    background: url('MainImage.jpg') center/cover no-repeat;
 }
 
 /* Remove this if you're going to use background image instead of img tag */
