@@ -163,6 +163,7 @@ section::before {
 }
 
 /* About Section */
+/* About Section */
 .about-content {
     display: flex;
     flex-wrap: wrap;
@@ -177,12 +178,13 @@ section::before {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+    height: 400px; /* Set an appropriate height */
+    background: url('https://www.cbd.edu/wp-content/uploads/2024/01/Kalpana-Chawla-Official-Picture.jpg') center/cover no-repeat;
 }
 
+/* Remove this if you're going to use background image instead of img tag */
 .about-image img {
-    width: 100%;
-    display: block;
-    transition: 0.5s;
+    display: none;
 }
 
 .about-text {
