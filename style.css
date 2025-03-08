@@ -179,7 +179,7 @@ section::before {
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
     height: 400px; /* Set an appropriate height */
-    background: url('https://www.cbd.edu/wp-content/uploads/2024/01/Kalpana-Chawla-Official-Picture.jpg') center/cover no-repeat;
+    background: url('./assets/MainImage.jpg') center/cover no-repeat;
 }
 
 /* Remove this if you're going to use background image instead of img tag */
