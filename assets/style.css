@@ -178,7 +178,7 @@ section::before {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
-    height: 400px; /* Set an appropriate height */
+    height: 600px; /* Set an appropriate height */
     background: url('MainImage.jpg') center/cover no-repeat;
 }
 
