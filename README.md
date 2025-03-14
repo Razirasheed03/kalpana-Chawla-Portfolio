@@ -1,5 +1,4 @@
-README Structure for Your Project
-📌 Project Title
+
 Kalpana Chawla Tribute Portfolio
 
  About the Project
